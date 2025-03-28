@@ -5,7 +5,7 @@ Retail theft is a growing concern in major cities like Chicago — affecting bus
 
 ---
 
-## ❓ What I Did (X)
+## ❓ What I Did 
 I conducted an end-to-end data analysis and machine learning project focused on **retail theft trends** in Chicago. The goal was to explore:
 
 - High-risk theft zones and time periods
@@ -15,7 +15,7 @@ I conducted an end-to-end data analysis and machine learning project focused on 
 
 ---
 
-## ⚙️ How I Did It (Y)
+## ⚙️ How I Did It
 To achieve this, I used the following tools and techniques:
 
 ### 🔧 Technologies Used:
@@ -38,7 +38,7 @@ To achieve this, I used the following tools and techniques:
 
 ---
 
-## ✅ What It Led To (Z)
+## ✅ What It Led To
 - 📅 Identified peak theft periods (2–4 PM, midweek, December & July)
 - 📍 Detected high-risk theft zones in commercial and downtown areas
 - 🏬 Found department stores and small retailers to be most vulnerable
