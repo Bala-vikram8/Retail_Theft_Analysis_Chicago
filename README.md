@@ -63,13 +63,6 @@ This project helped me:
 
 ---
 
-## 📁 Project Files
-- `Retail_Theft__Business_Impact.ipynb` – Full notebook (cleaning, EDA, ML)
-- `Retail_Theft_Analysis_Chicago.twbx` – Tableau dashboard
-- `Retail Theft Analysis in Chicago.png` – Final dashboard image
-
----
-
 ## 🙋‍♂️ About Me
 **I'm Bala Vikram** – an aspiring Data Analyst passionate about using data to solve real-world challenges. I'm actively seeking full-time opportunities in data analysis, business intelligence, or analytics roles.
 
