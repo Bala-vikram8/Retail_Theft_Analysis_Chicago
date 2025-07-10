@@ -3,7 +3,6 @@
 ## 📌 Project Overview
 Retail theft is a growing concern in major cities like Chicago — affecting businesses, law enforcement, and communities. In this project, I analyzed 24 years of real crime data to uncover patterns in **where**, **when**, and **how** retail theft happens, and built predictive models to support smarter decision-making.
 
----
 
 ## ❓ What I Did 
 I conducted an end-to-end data analysis and machine learning project focused on **retail theft trends** in Chicago. The goal was to explore:
